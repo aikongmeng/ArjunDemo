@@ -25,7 +25,7 @@ import java.io.OutputStream;
 
 /**
  * 图片英文识别
- * 图片二值化.
+ * 图片二值化
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     static final int REQUEST_IMAGE_CAPTURE = 1;
