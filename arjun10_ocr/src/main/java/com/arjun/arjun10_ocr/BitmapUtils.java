@@ -5,6 +5,7 @@ import android.media.ThumbnailUtils;
 
 /**
  * Created by Arjun on 2017/3/20.
+ *
  */
 
 public class BitmapUtils {

@@ -1,21 +1,18 @@
 package com.arjun.arjun04gridview;
 
 import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
-import android.widget.ListAdapter;
 import android.widget.Toast;
 
-import com.tencent.bugly.crashreport.CrashReport;
-
 /**
- * GridView 应用实例
+ * GridView 应用实例demo
  * https://developer.android.google.cn/guide/topics/ui/layout/gridview.html
  */
 public class MainActivity extends AppCompatActivity {
